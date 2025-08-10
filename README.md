@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Davi Rodrigues (Aprovation)
+# 👋 Olá, eu sou o Davi Alcântara (Aprovation)
 
 💻 **Desenvolvedor & Programador Júnior** apaixonado por criar soluções criativas usando **HTML, PHP, Java e MySQL**.  
 🚀 Transformo ideias em páginas, sistemas e experiências digitais, sempre aprendendo e explorando novas tecnologias.  
