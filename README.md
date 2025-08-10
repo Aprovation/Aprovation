@@ -14,16 +14,15 @@
 ---
 
 ## 📌 Projetos em Destaque
-- 🌐 [Meu Portfólio](#) — Sites, sistemas e experimentos de código
+- 🌐 [Meu Portfólio](https://aprovation.com.br) — Sites, sistemas e experimentos de código
 - 📂 [Repositórios](https://github.com/Aprovation?tab=repositories) — Códigos e estudos abertos
 - 📊 [Meus Projetos no GitHub](https://github.com/Aprovation?tab=projects) — Organização e progresso
 
 ---
 
 ## 📫 Como me encontrar
-- 💼 [LinkedIn](#) *(adicione seu link aqui)*
 - 📧 **davi@aprovation.com.br**
-- 🌍 [Meu site pessoal](#) *(adicione aqui)*
+- 🌍 [Meu site pessoal](https://aprovation.com.br)
 
 ---
 
