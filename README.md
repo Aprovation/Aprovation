@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Davi Rodrigues (Aprovation)
 
-<!--
-**Aprovation/Aprovation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor & Programador Júnior** apaixonado por criar soluções criativas usando **HTML, PHP, Java e MySQL**.  
+🚀 Transformo ideias em páginas, sistemas e experiências digitais, sempre aprendendo e explorando novas tecnologias.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias & Ferramentas
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend:** PHP, Java
+- **Banco de Dados:** MySQL / SQL
+- **Outros:** Git, GitHub, SEO, Responsividade
+
+---
+
+## 📌 Projetos em Destaque
+- 🌐 [Meu Portfólio](#) — Sites, sistemas e experimentos de código
+- 📂 [Repositórios](https://github.com/Aprovation?tab=repositories) — Códigos e estudos abertos
+- 📊 [Meus Projetos no GitHub](https://github.com/Aprovation?tab=projects) — Organização e progresso
+
+---
+
+## 📫 Como me encontrar
+- 💼 [LinkedIn](#) *(adicione seu link aqui)*
+- 📧 **davi@aprovation.com.br**
+- 🌍 [Meu site pessoal](#) *(adicione aqui)*
+
+---
+
+> _"Cada commit é um passo para se tornar melhor."_  
+⭐ Se gostou de algum projeto, não esqueça de deixar uma estrela!
+
+---
